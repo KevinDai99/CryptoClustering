@@ -9,8 +9,8 @@ A collective insanity has sprouted around Bitcoin over the last decade. The thri
 ### Methodology
 
 Bitcoin data was normalized with standard scaler.
-The elbow method, and PCA analysis was conducted to determine the number of clusters and to reduce dimensionality, respectively. 
-KMeans algorithim was used Unsupervised tp cateogrize bitcoin market data for further investigation. 
+The elbow method, and PCA analysis was conducted to determine the number of clusters and to reduce dimensionality.
+KMeans algorithim was used to cateogrize bitcoin market data for further investigation. 
 
 
 #### Dependencies
