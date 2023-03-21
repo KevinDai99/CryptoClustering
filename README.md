@@ -4,7 +4,7 @@
 
 ## Project Introduction
 
-A collective insanity has sprouted around Bitcoin over the last decade. The thrill of riches or ruin leaves some investors wary, but others want to chase the chance for massive profits from investing in Bitcoin. This project attempts to utilize unsupervise learning to category different bitcoins, mine for insights, and acts as a segway for further investigation. 
+A collective insanity has sprouted around Bitcoin over the last decade. The thrill of riches or ruin leaves some investors wary, but others want to chase the chance for massive profits from investing in Bitcoin. This project attempts to utilize unsupervise learning to see if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
 ### Methodology
 
